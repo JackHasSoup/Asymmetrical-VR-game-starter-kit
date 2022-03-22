@@ -1,4 +1,4 @@
-# Unity-Cross-Reality-game-starter-kit
+# Asymmetrical-VR-game-starter-kit
 Unity "Asymmetrical VR" game starter kit
 
 
