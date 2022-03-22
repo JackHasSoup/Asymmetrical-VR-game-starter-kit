@@ -1,5 +1,5 @@
 # Unity-Cross-Reality-game-starter-kit
-Unity "Cross Reality" game starter kit
+Unity "Asymmetrical VR" game starter kit
 
 
 Just unpack into your "Assets" folder and you should be good to go
